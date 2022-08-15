@@ -13,10 +13,16 @@ This project focuses on the ease of use for the user. Minting NFTs and Storing t
 2. Buy NFT
 3. Sell NFT
 4. Store and Trade NFTs.
-5. Set desired token price.
+5. Set desired NFT price.
 6. Toggle between keeping the NFT for sale and not for sale.
 7. Keep track of all the NFTs owned by an account - minted and bought.
 8. Query blockchain for token owner and token metadata.
+
+### Methods and Techniques Used:
+
+We have used HardHat, Nodejs and Nextjs to code the whole application.
+A huge chunk of Javascript has also been used to integrate all the parts together.
+And of course, we worked with smart contracts as well for minting NFTs.
 
 ### Goals and Motivation: 
 
@@ -30,6 +36,13 @@ Our project aims to target that field of users and make it as easy as possible f
 The target audience for this project is mainly the new comers to the NFT market.
 Those with no or absolute minimum knowledge on how to mint NFTs and what NFTs really are.
 People who simply wants to try minting an NFT for the first time.
+
+### Future Goals: 
+
+Our future goals is to make this application more user friendly so that they can feel at home while using this app.
+To add more features where they can also easily make their own smart contracts, like a home ownership or even a marriage documentation without doing any of the coding.
+
+
 
 
 
